@@ -6,7 +6,7 @@ const string From = "Poland";
 var fsr = new Dictionary<string, string>
 {
     { "Knowledge", "C#, C++, PHP, HTML, CSS, JS" },
-    { "Tools", "Rider, InteliJ, Visual Studio" },
+    { "Tools", "InteliJ, Visual Studio, Visual Studio Code" },
     { "OS", "Windows 10 Pro" },
     { "Projects", "Leakscity" }
 };
