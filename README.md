@@ -29,3 +29,8 @@ var Contact = new Dictionary<string, string>
 <a href="https://github.com/LC-fsr/LC-fsr">
     <img align="center" src="https://komarev.com/ghpvc/?username=LC-fsr&color=DF6D74&style=plastic&label=Profile Views"/>
 </a>
+
+###Links
+<a href="https://leakscity.cc">LEAKSCITY.cc</a>
+<br>
+<a href="https://discord.gg/leakscity">LEAKSCITY Discord</a>
