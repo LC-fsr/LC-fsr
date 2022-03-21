@@ -14,7 +14,7 @@ var fsr = new Dictionary<string, string>
 var Contact = new Dictionary<string, string>
 {
     { "Email", "fsr@leakscity.cc" },
-    { "Discord", "fsr#0149" }
+    { "Discord", "fsr#9198" }
 };
 ```
 ### Stats
