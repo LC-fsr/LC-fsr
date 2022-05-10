@@ -6,9 +6,9 @@ const string From = "Poland";
 var fsr = new Dictionary<string, string>
 {
     { "Knowledge", "C#, C++, PHP, HTML, CSS, JS" },
-    { "Tools", "InteliJ, Visual Studio, Visual Studio Code" },
+    { "Tools", "Visual Studio, Visual Studio Code, IDA Pro, Ghidra" },
     { "OS", "Windows 10 Pro" },
-    { "Projects", "Leakscity" }
+    { "Projects", "leakslab, kernel.red" }
 };
 
 var Contact = new Dictionary<string, string>
@@ -32,4 +32,4 @@ var Contact = new Dictionary<string, string>
 <br>
 
 ### Links
-<a href="https://leaklab.cc">LEAKSLAB.cc</a>
+<a href="https://leakslab.cc">LEAKSLAB.cc</a>
