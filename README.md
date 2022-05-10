@@ -32,6 +32,4 @@ var Contact = new Dictionary<string, string>
 <br>
 
 ### Links
-<a href="https://leakscity.cc">LEAKSCITY.cc</a>
-<br>
-<a href="https://discord.gg/leakscity">LEAKSCITY Discord</a>
+<a href="https://leaklab.cc">LEAKSLAB.cc</a>
